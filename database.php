@@ -1,8 +1,8 @@
 <?php
-    $database = 'registroTreino';
-    $user = 'root';
-    $password = 'root';
-    $host = 'localhost';
+    $database = '*******';
+    $user = '****';
+    $password = '****';
+    $host = '******';
     
     $conexao = mysqli_connect($host, $user, $password, $database);
 ?>
